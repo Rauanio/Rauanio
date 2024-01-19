@@ -3,26 +3,31 @@
 </a>
 
 <h1 align="left">👋 Hello there! I'm Rauan Mudegeev</h1>
+:kazakhstan:
+<br>
+
+### Frontend Developer from Kazakhstan <span>&#127472;&#127487;</span>
+
+- :school: &nbsp;I'm currently studying at **[International Information Technology University](https://iitu.edu.kz/)**
+
+- :fire: &nbsp;I develop for all platforms using **[React](https://react.dev/)** and **[Typescript](https://www.typescriptlang.org/)**  
+
+- :arrow_down_small: &nbsp;My profile in **[Linkedin](https://www.linkedin.com/in/rauan-mudegeev-62954b232)**
+
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Rauanio9)**
 
 <br>
 
-Frontend Developer from Kazakhstan :kazakhstan:
+## [:open_file_folder: My projects and 📦 Packages](https://github.com/Rauanio?tab=repositories)
 
-- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
-- :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
-- :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
+- ### [🔑 Eslint plugin for FSD](https://github.com/Rauanio/eslint-plugin-path-control)
+  Eslint plugin for Feature sliced design best practices 
+- ### [🔥 Productivity App](https://github.com/Rauanio/productivity-app)
+  Website that helps you manage and plan your tasks and habits using the kaizen method
 
-<br>
+- ### [🎉 IT Blog](https://github.com/Rauanio/production)
+  Blog about new technologies and libraries in the IT field
 
-## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
-
-- ### [🎉 Mock Config Server](https://github.com/siberiacancode/mock-config-server)
-  tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [🔑 Google ReCaptcha Ultimate](https://github.com/siberiacancode/google-recaptcha)
-  tool that easily and quickly add Google ReCaptcha for your website or application
-- ### [♻️ Lodash Omitdeep](https://github.com/siberiacancode/lodash-omitdeep)
-  lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
 <br>
 
@@ -123,18 +128,6 @@ Frontend Developer from Kazakhstan :kazakhstan:
       </a>
       <br>cypress
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
-      </a>
-      <br>playwright
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
-      </a>
-      <br>puppeteer
-    </td>
   </tr> 
 </table>
 
@@ -185,23 +178,11 @@ Frontend Developer from Kazakhstan :kazakhstan:
       </a>
       <br>Redux
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
       <br>MUI
-    </td>
-   <td align="center"  width="96">
-      <a href="#debabin-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
-      </a>
-      <br>Gatsby
     </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
@@ -211,12 +192,6 @@ Frontend Developer from Kazakhstan :kazakhstan:
     </td>
   </tr> 
     <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
@@ -241,21 +216,27 @@ Frontend Developer from Kazakhstan :kazakhstan:
       </a>
       <br>Tailwind
     </td>
-  </tr> 
-</table>
-
-> Mobile
-
-<table width='100%'>
-  <tr>
+        <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://svgl.vercel.app/library/shadcn-ui_dark.svg" width="36" height="36" alt="Shadcn" />
+      </a>
+      <br>Shadcn/ui
+    </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
+        <img src="https://avatars.githubusercontent.com/u/79146003?s=200&v=4" width="36" height="36" alt="Mantine" />
       </a>
-      <br>React Native
+      <br>Mantine UI
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://svgl.vercel.app/library/zod.svg" width="36" height="36" alt="Zod" />
+      </a>
+      <br>Zod 
     </td>
   </tr> 
 </table>
+
 
 > Backend
 
@@ -263,27 +244,9 @@ Frontend Developer from Kazakhstan :kazakhstan:
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
@@ -297,11 +260,11 @@ Frontend Developer from Kazakhstan :kazakhstan:
       </a>
       <br>Prisma
     </td>
-      <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
+        <img src="https://pocketbase.io/images/logo.svg" width="36" height="36" alt="Pocketbase" />
       </a>
-      <br>tRPC
+      <br>Pocketbase
     </td>
   </tr> 
 </table>
@@ -312,20 +275,17 @@ Frontend Developer from Kazakhstan :kazakhstan:
   <tr>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://raw.githubusercontent.com/MicrosoftDocs/visualstudio-docs/3b41a002d485085243af556431b392c0177b2fa0/docs/media/vs-code-logo.svg" width="36" height="36" alt="electron" />
       </a>
-      <br>electron
+      <br>VS Code
     </td>
   </tr> 
 </table>
 
 ## ☄️ Contact
 
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
-- :popcorn: &nbsp;**[Twitch](https://www.twitch.tv/siberiacancode)**
-- :bird: &nbsp;**[VK](https://vk.com/siberiacancode)**
-- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
-- :robot: &nbsp;**[Discord](https://discord.gg/UsM4F9h6hn)**
-- :comet: &nbsp;**[Github](https://github.com/debabin)**
+- :bird: &nbsp;**[Linkedin](https://www.linkedin.com/in/rauan-mudegeev-62954b232)**
+- :airplane: &nbsp;**[Telegram](https://t.me/Rauanio9)**
+- :comet: &nbsp;**[Github](https://github.com/Rauanio)**
 
 <br>
