@@ -3,10 +3,9 @@
 </a>
 
 <h1 align="left">👋 Hello there! I'm Rauan Mudegeev</h1>
-:kazakhstan:
 <br>
 
-### Frontend Developer from Kazakhstan <span>&#127472;&#127487;</span>
+### Frontend Developer from Kazakhstan 
 
 - :school: &nbsp;I'm currently studying at **[International Information Technology University](https://iitu.edu.kz/)**
 
@@ -22,13 +21,10 @@
 
 - ### [🔑 Eslint plugin for FSD](https://github.com/Rauanio/eslint-plugin-path-control)
   Eslint plugin for Feature sliced design best practices 
-- ### [🔥 Productivity App](https://github.com/Rauanio/productivity-app)
-  Website that helps you manage and plan your tasks and habits using the kaizen method
-
 - ### [🎉 IT Blog](https://github.com/Rauanio/production)
   Blog about new technologies and libraries in the IT field
-
-
+- ### [🔥 Productivity App](https://github.com/Rauanio/productivity-app)
+  Website that helps you manage and plan your tasks and habits using the kaizen method
 <br>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
@@ -178,6 +174,18 @@
       </a>
       <br>Redux
     </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
@@ -192,18 +200,6 @@
     </td>
   </tr> 
     <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
@@ -284,7 +280,7 @@
 
 ## ☄️ Contact
 
-- :bird: &nbsp;**[Linkedin](https://www.linkedin.com/in/rauan-mudegeev-62954b232)**
+- :arrow_down_small: &nbsp;**[Linkedin](https://www.linkedin.com/in/rauan-mudegeev-62954b232)**
 - :airplane: &nbsp;**[Telegram](https://t.me/Rauanio9)**
 - :comet: &nbsp;**[Github](https://github.com/Rauanio)**
 
