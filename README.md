@@ -11,7 +11,7 @@
 
 - :fire: &nbsp;I develop for all platforms using **[React](https://react.dev/)** and **[Typescript](https://www.typescriptlang.org/)**  
 
-- :arrow_down_small: &nbsp;My profile in **[Linkedin](https://www.linkedin.com/in/rauan-mudegeev-62954b232)**
+- :arrow_down_small: &nbsp;My profile in **[Linkedin](www.linkedin.com/in/rauanio)**
 
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Rauanio9)**
 
@@ -280,7 +280,7 @@
 
 ## ☄️ Contact
 
-- :arrow_down_small: &nbsp;**[Linkedin](https://www.linkedin.com/in/rauan-mudegeev-62954b232)**
+- :arrow_down_small: &nbsp;**[Linkedin](www.linkedin.com/in/rauanio)**
 - :airplane: &nbsp;**[Telegram](https://t.me/Rauanio9)**
 - :comet: &nbsp;**[Github](https://github.com/Rauanio)**
 
